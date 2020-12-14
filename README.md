@@ -1,3 +1,3 @@
-# black
+# autoformat
 
-Docker image for linting with black during GitLab CI.
+Docker image for autoformatting Python files during GitLab CI.
